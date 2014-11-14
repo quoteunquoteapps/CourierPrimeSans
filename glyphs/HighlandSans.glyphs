@@ -23960,6 +23960,34 @@ unicode = 002D;
 {
 glyphname = guillemotleft;
 lastChange = "2014-01-30 14:54:26 -0700";
+glyphname = nonbreakinghyphen;
+layers = (
+{
+components = (
+{
+name = hyphen;
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 1228;
+},
+{
+components = (
+{
+name = hyphen;
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 1228;
+}
+);
+unicode = 2011;
+},
+{
 layers = (
 {
 components = (
