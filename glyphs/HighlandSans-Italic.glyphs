@@ -36,18 +36,48 @@ name = calt;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{1312, 22}",
+"{1187, 22}",
+"{924, 22}",
+"{0, -22}",
+"{-388, -22}"
+);
 ascender = 1421;
 capHeight = 1187;
 descender = "-643";
+guideLines = (
+{
+position = "{49, 1312}";
+},
+{
+position = "{-250, -388}";
+}
+);
 id = UUID0;
 italicAngle = 10;
 weightValue = 150;
 xHeight = 924;
 },
 {
+alignmentZones = (
+"{1312, 22}",
+"{1187, 22}",
+"{924, 22}",
+"{0, -22}",
+"{-393, -22}"
+);
 ascender = 1421;
 capHeight = 1187;
 descender = "-643";
+guideLines = (
+{
+position = "{-251, -393}";
+},
+{
+position = "{48, 1312}";
+}
+);
 id = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
 italicAngle = 10;
 weight = Bold;
