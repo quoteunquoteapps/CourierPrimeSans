@@ -15,14 +15,14 @@
       <point x="185" y="924"/>
       <point x="167" y="906"/>
       <point x="167" y="861" type="curve" smooth="yes"/>
-      <point x="167" y="-330" type="line" smooth="yes"/>
-      <point x="167" y="-375"/>
-      <point x="185" y="-393"/>
-      <point x="230" y="-393" type="curve" smooth="yes"/>
-      <point x="354" y="-393" type="line" smooth="yes"/>
-      <point x="399" y="-393"/>
-      <point x="417" y="-375"/>
-      <point x="417" y="-330" type="curve" smooth="yes"/>
+      <point x="167" y="-325" type="line" smooth="yes"/>
+      <point x="167" y="-370"/>
+      <point x="185" y="-388"/>
+      <point x="230" y="-388" type="curve" smooth="yes"/>
+      <point x="354" y="-388" type="line" smooth="yes"/>
+      <point x="399" y="-388"/>
+      <point x="417" y="-370"/>
+      <point x="417" y="-325" type="curve" smooth="yes"/>
       <point x="417" y="96" type="line"/>
       <point x="484" y="22"/>
       <point x="574" y="-22"/>
