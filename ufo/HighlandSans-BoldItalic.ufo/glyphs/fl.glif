@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl" format="1">
-  <advance width="1228"/>
+  <advance width="2456"/>
   <unicode hex="FB02"/>
   <outline>
-    <contour>
-      <point x="731" y="1312" type="line" smooth="yes"/>
-      <point x="509" y="1312"/>
-      <point x="364" y="1196"/>
-      <point x="325" y="977" type="curve" smooth="yes"/>
-      <point x="95" y="-330" type="line" smooth="yes"/>
-      <point x="87" y="-375"/>
-      <point x="102" y="-393"/>
-      <point x="147" y="-393" type="curve" smooth="yes"/>
-      <point x="271" y="-393" type="line" smooth="yes"/>
-      <point x="316" y="-393"/>
-      <point x="337" y="-375"/>
-      <point x="345" y="-330" type="curve" smooth="yes"/>
-      <point x="570" y="951" type="line" smooth="yes"/>
-      <point x="587" y="1046"/>
-      <point x="641" y="1087"/>
-      <point x="723" y="1087" type="curve" smooth="yes"/>
-      <point x="944" y="1087" type="line"/>
-      <point x="764" y="63" type="line" smooth="yes"/>
-      <point x="756" y="18"/>
-      <point x="771" y="0"/>
-      <point x="816" y="0" type="curve" smooth="yes"/>
-      <point x="940" y="0" type="line" smooth="yes"/>
-      <point x="985" y="0"/>
-      <point x="1006" y="18"/>
-      <point x="1014" y="63" type="curve" smooth="yes"/>
-      <point x="1223" y="1249" type="line" smooth="yes"/>
-      <point x="1231" y="1294"/>
-      <point x="1216" y="1312"/>
-      <point x="1171" y="1312" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="676" y="639" type="line" smooth="yes"/>
-      <point x="721" y="639"/>
-      <point x="744" y="662"/>
-      <point x="759" y="751" type="curve" smooth="yes"/>
-      <point x="774" y="840"/>
-      <point x="761" y="864"/>
-      <point x="716" y="864" type="curve" smooth="yes"/>
-      <point x="182" y="864" type="line" smooth="yes"/>
-      <point x="137" y="864"/>
-      <point x="114" y="840"/>
-      <point x="99" y="751" type="curve" smooth="yes"/>
-      <point x="84" y="662"/>
-      <point x="97" y="639"/>
-      <point x="142" y="639" type="curve" smooth="yes"/>
-    </contour>
+    <component base="f"/>
+    <component base="l" xOffset="1228"/>
   </outline>
 </glyph>
