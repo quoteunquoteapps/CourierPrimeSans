@@ -12751,7 +12751,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2014-01-31 03:53:22 -0700";
+lastChange = "2014-11-16 14:21:27 -0700";
 layers = (
 {
 layerId = UUID0;
@@ -18353,7 +18353,7 @@ unicode = 0039;
 },
 {
 glyphname = fraction;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-16 14:21:22 -0700";
 layers = (
 {
 layerId = UUID0;
@@ -18362,20 +18362,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1103 761 LINE SMOOTH",
-"1122 773 OFFCURVE",
-"1122 800 OFFCURVE",
-"1103 826 CURVE SMOOTH",
-"1084 852 OFFCURVE",
-"1060 860 OFFCURVE",
-"1043 850 CURVE SMOOTH",
 "125 289 LINE SMOOTH",
 "106 277 OFFCURVE",
 "106 250 OFFCURVE",
 "125 224 CURVE SMOOTH",
 "144 198 OFFCURVE",
 "168 190 OFFCURVE",
-"185 200 CURVE SMOOTH"
+"185 200 CURVE SMOOTH",
+"1103 761 LINE SMOOTH",
+"1122 773 OFFCURVE",
+"1122 800 OFFCURVE",
+"1103 826 CURVE SMOOTH",
+"1084 852 OFFCURVE",
+"1060 860 OFFCURVE",
+"1043 850 CURVE SMOOTH"
 );
 }
 );
@@ -18388,20 +18388,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1122 711 LINE SMOOTH",
-"1150 727 OFFCURVE",
-"1141 768 OFFCURVE",
-"1118 800 CURVE SMOOTH",
-"1097 830 OFFCURVE",
-"1065 852 OFFCURVE",
-"1042 840 CURVE SMOOTH",
-"105 319 LINE SMOOTH",
-"77 303 OFFCURVE",
-"88 260 OFFCURVE",
-"112 227 CURVE SMOOTH",
-"133 199 OFFCURVE",
-"163 178 OFFCURVE",
-"185 190 CURVE SMOOTH"
+"105 329 LINE SMOOTH",
+"77 313 OFFCURVE",
+"79 286 OFFCURVE",
+"109 240 CURVE SMOOTH",
+"139 194 OFFCURVE",
+"162 188 OFFCURVE",
+"185 200 CURVE SMOOTH",
+"1122 721 LINE SMOOTH",
+"1150 737 OFFCURVE",
+"1148 764 OFFCURVE",
+"1118 810 CURVE SMOOTH",
+"1088 856 OFFCURVE",
+"1065 862 OFFCURVE",
+"1042 850 CURVE SMOOTH"
 );
 }
 );
@@ -18412,7 +18412,7 @@ unicode = 2044;
 },
 {
 glyphname = onehalf;
-lastChange = "2014-11-16 13:38:57 -0700";
+lastChange = "2014-11-16 14:07:45 -0700";
 layers = (
 {
 background = {
@@ -18648,7 +18648,7 @@ transform = "{0.835, 0, 0, 0.834, 426, -619}";
 {
 disableAlignment = 1;
 name = fraction;
-transform = "{1, 0, 0, 1, 0, 50}";
+transform = "{1, 0, 0, 1, 0, 40}";
 },
 {
 disableAlignment = 1;
@@ -18665,7 +18665,7 @@ unicode = 00BD;
 },
 {
 glyphname = onequarter;
-lastChange = "2014-11-16 13:38:43 -0700";
+lastChange = "2014-11-16 14:07:43 -0700";
 layers = (
 {
 background = {
@@ -18899,7 +18899,7 @@ transform = "{0.847, 0, 0, 0.846, 427, -626}";
 {
 disableAlignment = 1;
 name = fraction;
-transform = "{1, 0, 0, 1, 0, 0}";
+transform = "{1, 0, 0, 1, 0, -10}";
 },
 {
 disableAlignment = 1;
@@ -18916,7 +18916,7 @@ unicode = 00BC;
 },
 {
 glyphname = threequarters;
-lastChange = "2014-11-16 13:38:28 -0700";
+lastChange = "2014-11-16 14:07:42 -0700";
 layers = (
 {
 background = {
@@ -19211,7 +19211,7 @@ transform = "{0.847, 0, 0, 0.846, 427, -626}";
 {
 disableAlignment = 1;
 name = fraction;
-transform = "{1, 0, 0, 1, 0, 10}";
+transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
