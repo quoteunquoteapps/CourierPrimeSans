@@ -19781,7 +19781,7 @@ unicode = 2044;
 },
 {
 glyphname = onehalf;
-lastChange = "2014-11-14 05:23:35 -0700";
+lastChange = "2014-11-16 13:40:36 -0700";
 layers = (
 {
 background = {
@@ -19893,10 +19893,12 @@ nodes = (
 };
 components = (
 {
+disableAlignment = 1;
 name = twosuperior;
 transform = "{0.835, 0, 0, 0.834, 309, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 40}";
 },
@@ -20020,10 +20022,12 @@ nodes = (
 };
 components = (
 {
+disableAlignment = 1;
 name = twosuperior;
 transform = "{0.835, 0, 0, 0.834, 306, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 20, 55}";
 },
@@ -20299,7 +20303,7 @@ unicode = 00BC;
 },
 {
 glyphname = threequarters;
-lastChange = "2014-11-14 05:23:50 -0700";
+lastChange = "2014-11-16 13:40:16 -0700";
 layers = (
 {
 background = {
@@ -20440,10 +20444,12 @@ name = threesuperior;
 transform = "{0.835, 0, 0, 0.834, -192, 281}";
 },
 {
+disableAlignment = 1;
 name = foursuperior;
 transform = "{0.835, 0, 0, 0.835, 295, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 0}";
 }
@@ -20602,6 +20608,7 @@ name = foursuperior;
 transform = "{0.847, 0, 0, 0.846, 293, -626}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 20, 29}";
 }

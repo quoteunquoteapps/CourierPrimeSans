@@ -18412,7 +18412,7 @@ unicode = 2044;
 },
 {
 glyphname = onehalf;
-lastChange = "2014-11-14 04:51:20 -0700";
+lastChange = "2014-11-16 13:38:57 -0700";
 layers = (
 {
 background = {
@@ -18518,10 +18518,12 @@ nodes = (
 };
 components = (
 {
+disableAlignment = 1;
 name = twosuperior;
 transform = "{0.835, 0, 0, 0.834, 429, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 40}";
 },
@@ -18639,10 +18641,12 @@ nodes = (
 };
 components = (
 {
+disableAlignment = 1;
 name = twosuperior;
 transform = "{0.835, 0, 0, 0.834, 426, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 50}";
 },
@@ -18661,7 +18665,7 @@ unicode = 00BD;
 },
 {
 glyphname = onequarter;
-lastChange = "2014-11-14 04:51:57 -0700";
+lastChange = "2014-11-16 13:38:43 -0700";
 layers = (
 {
 background = {
@@ -18766,10 +18770,12 @@ nodes = (
 };
 components = (
 {
+disableAlignment = 1;
 name = foursuperior;
 transform = "{0.835, 0, 0, 0.835, 428, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, -10}";
 },
@@ -18891,6 +18897,7 @@ name = foursuperior;
 transform = "{0.847, 0, 0, 0.846, 427, -626}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
@@ -18909,7 +18916,7 @@ unicode = 00BC;
 },
 {
 glyphname = threequarters;
-lastChange = "2014-11-14 05:24:16 -0700";
+lastChange = "2014-11-16 13:38:28 -0700";
 layers = (
 {
 background = {
@@ -19047,10 +19054,12 @@ name = threesuperior;
 transform = "{0.835, 0, 0, 0.834, -231, 281}";
 },
 {
+disableAlignment = 1;
 name = foursuperior;
 transform = "{0.835, 0, 0, 0.835, 428, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 0}";
 }
@@ -19200,6 +19209,7 @@ name = foursuperior;
 transform = "{0.847, 0, 0, 0.846, 427, -626}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 10}";
 }
