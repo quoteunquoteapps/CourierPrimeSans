@@ -17,7 +17,7 @@ value = QUQA;
 date = "2014-11-14 05:25:25 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
-familyName = "Highland Sans Italic";
+familyName = "Highland Sans";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem latn dflt;";
@@ -30994,6 +30994,7 @@ weightClass = Medium;
 },
 {
 interpolationWeight = 250;
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 }
