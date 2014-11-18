@@ -17133,6 +17133,57 @@ width = 1228;
 unicode = 2206;
 },
 {
+glyphname = Omega;
+lastChange = "2014-11-18 03:46:41 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 03A9;
+},
+{
+glyphname = mu;
+lastChange = "2014-11-18 03:52:29 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 03BC;
+},
+{
+glyphname = pi;
+lastChange = "2014-11-18 03:52:29 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 03C0;
+},
+{
 glyphname = zero;
 lastChange = "2014-01-31 04:05:13 -0700";
 layers = (
@@ -26904,6 +26955,23 @@ width = 1228;
 unicode = 2265;
 },
 {
+glyphname = infinity;
+lastChange = "2014-11-18 03:47:33 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 221E;
+},
+{
 glyphname = integral;
 lastChange = "2014-11-16 17:39:57 -0700";
 layers = (
@@ -27525,6 +27593,23 @@ width = 1228;
 }
 );
 unicode = 2260;
+},
+{
+glyphname = partialdiff;
+lastChange = "2014-11-18 03:48:00 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 2202;
 },
 {
 glyphname = percent;
@@ -28207,6 +28292,40 @@ width = 1228;
 unicode = 00B1;
 },
 {
+glyphname = product;
+lastChange = "2014-11-18 03:52:29 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 220F;
+},
+{
+glyphname = radical;
+lastChange = "2014-11-18 03:52:29 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 221A;
+},
+{
 glyphname = summation;
 lastChange = "2014-01-30 14:54:26 -0700";
 layers = (
@@ -28262,6 +28381,23 @@ width = 1228;
 }
 );
 unicode = 2211;
+},
+{
+glyphname = lozenge;
+lastChange = "2014-11-18 03:52:29 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 600;
+}
+);
+unicode = 25CA;
 },
 {
 glyphname = ampersand;
