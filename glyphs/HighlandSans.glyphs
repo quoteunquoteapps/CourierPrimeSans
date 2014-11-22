@@ -2942,7 +2942,7 @@ unicode = 0132;
 },
 {
 glyphname = Iacute;
-lastChange = "2014-11-19 03:42:14 -0700";
+lastChange = "2014-11-22 19:14:36 -0700";
 layers = (
 {
 components = (
@@ -2952,7 +2952,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = UUID0;
@@ -2967,7 +2967,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
@@ -3127,7 +3127,7 @@ unicode = 0130;
 },
 {
 glyphname = Igrave;
-lastChange = "2014-11-19 03:42:12 -0700";
+lastChange = "2014-11-22 19:14:31 -0700";
 layers = (
 {
 components = (
@@ -3137,7 +3137,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 22, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = UUID0;
@@ -3152,7 +3152,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 22, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
@@ -6445,7 +6445,7 @@ unicode = 0055;
 },
 {
 glyphname = Uacute;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-22 19:21:27 -0700";
 layers = (
 {
 components = (
@@ -6455,7 +6455,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 38, 270}";
+transform = "{1, 0, 0, 1, 28, 270}";
 }
 );
 layerId = UUID0;
@@ -6470,7 +6470,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 20, 270}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
@@ -6593,7 +6593,7 @@ unicode = 00DC;
 },
 {
 glyphname = Ugrave;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-22 19:21:32 -0700";
 layers = (
 {
 components = (
@@ -6603,7 +6603,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, -18, 270}";
+transform = "{1, 0, 0, 1, -28, 270}";
 }
 );
 layerId = UUID0;
@@ -6618,7 +6618,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 22, 270}";
+transform = "{1, 0, 0, 1, -20, 270}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
@@ -7172,7 +7172,7 @@ unicode = 1E84;
 },
 {
 glyphname = Wgrave;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-22 19:20:46 -0700";
 layers = (
 {
 components = (
@@ -7197,7 +7197,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 11, 263}";
+transform = "{1, 0, 0, 1, -10, 263}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
@@ -7429,7 +7429,7 @@ unicode = 0059;
 },
 {
 glyphname = Yacute;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-22 19:19:43 -0700";
 layers = (
 {
 components = (
@@ -7450,7 +7450,7 @@ width = 1228;
 components = (
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 10, 270}";
 },
 {
 name = Y;
@@ -7540,7 +7540,7 @@ unicode = 0178;
 },
 {
 glyphname = Ygrave;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-22 19:19:56 -0700";
 layers = (
 {
 components = (
@@ -7550,7 +7550,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, -20, 270}";
+transform = "{1, 0, 0, 1, -28, 270}";
 }
 );
 layerId = UUID0;
@@ -7565,7 +7565,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 20, 270}";
+transform = "{1, 0, 0, 1, -10, 270}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
@@ -10309,7 +10309,7 @@ unicode = 0117;
 },
 {
 glyphname = egrave;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-22 19:18:03 -0700";
 layers = (
 {
 components = (
@@ -16535,7 +16535,7 @@ unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2014-01-30 14:54:26 -0700";
+lastChange = "2014-11-22 19:19:16 -0700";
 layers = (
 {
 components = (
@@ -16560,7 +16560,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, -10, 0}";
+transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
 layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
@@ -16947,7 +16947,7 @@ unicode = 00FF;
 },
 {
 glyphname = ygrave;
-lastChange = "2014-11-18 03:15:19 -0700";
+lastChange = "2014-11-22 19:18:55 -0700";
 layers = (
 {
 components = (
@@ -16957,7 +16957,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 1, 0}";
+transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = UUID0;
