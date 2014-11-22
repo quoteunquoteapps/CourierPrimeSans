@@ -268,6 +268,8 @@
 	<string>acute.glif</string>
 	<key>acute.alt</key>
 	<string>acute.alt.glif</string>
+	<key>acute.case</key>
+	<string>acute.case.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
 	<key>ae</key>
@@ -310,6 +312,8 @@
 	<string>bracketright.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
+	<key>breve.case</key>
+	<string>breve.case.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
@@ -320,6 +324,8 @@
 	<string>cacute.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
+	<key>caron.case</key>
+	<string>caron.case.glif</string>
 	<key>ccaron</key>
 	<string>ccaron.glif</string>
 	<key>ccedilla</key>
@@ -330,10 +336,14 @@
 	<string>cdotaccent.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
+	<key>cedilla.case</key>
+	<string>cedilla.case.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
+	<key>circumflex.case</key>
+	<string>circumflex.case.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>colon.alt</key>
@@ -360,12 +370,16 @@
 	<string>degree.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
+	<key>dieresis.case</key>
+	<string>dieresis.case.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
+	<key>dotaccent.case</key>
+	<string>dotaccent.case.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
@@ -460,6 +474,8 @@
 	<string>grave.glif</string>
 	<key>grave.alt</key>
 	<string>grave.alt.glif</string>
+	<key>grave.case</key>
+	<string>grave.case.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>greaterequal</key>
@@ -480,6 +496,8 @@
 	<string>hcircumflex.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
+	<key>hungarumlaut.case</key>
+	<string>hungarumlaut.case.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>hyphen.alt</key>
@@ -540,6 +558,8 @@
 	<string>m.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
+	<key>macron.case</key>
+	<string>macron.case.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>minute</key>
@@ -578,6 +598,8 @@
 	<string>oe.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
+	<key>ogonek.case</key>
+	<string>ogonek.case.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
 	<key>ohungarumlaut</key>
@@ -666,6 +688,8 @@
 	<string>registered.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
+	<key>ring.case</key>
+	<string>ring.case.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>
@@ -716,6 +740,8 @@
 	<string>threesuperior.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+	<key>tilde.case</key>
+	<string>tilde.case.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>
@@ -748,6 +774,8 @@
 	<string>uni021B_.glif</string>
 	<key>uni0326</key>
 	<string>uni0326.glif</string>
+	<key>uni0326.case</key>
+	<string>uni0326.case.glif</string>
 	<key>uni2011</key>
 	<string>uni2011.glif</string>
 	<key>uogonek</key>
