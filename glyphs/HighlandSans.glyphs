@@ -103,7 +103,7 @@ xHeight = 924;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2014-01-30 20:25:46 -0700";
+lastChange = "2014-11-22 04:45:53 -0700";
 layers = (
 {
 layerId = UUID0;
@@ -124,7 +124,8 @@ nodes = (
 "251 36 CURVE SMOOTH",
 "396 427 LINE",
 "406 456 LINE",
-"612 1043 LINE",
+"610 1043 LINE",
+"614 1043 LINE",
 "818 455 LINE",
 "828 427 LINE",
 "973 36 LINE SMOOTH",
@@ -171,7 +172,8 @@ nodes = (
 "321 27 CURVE SMOOTH",
 "442 354 LINE",
 "455 409 LINE",
-"615 865 LINE",
+"613 865 LINE",
+"617 865 LINE",
 "770 409 LINE",
 "782 354 LINE",
 "899 27 LINE SMOOTH",
