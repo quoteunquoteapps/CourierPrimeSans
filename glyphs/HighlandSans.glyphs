@@ -7920,8 +7920,9 @@ width = 1228;
 unicode = 017B;
 },
 {
+color = 8;
 glyphname = a;
-lastChange = "2014-11-22 20:50:22 -0700";
+lastChange = "2014-11-23 07:07:09 -0700";
 layers = (
 {
 background = {
@@ -15539,10 +15540,27 @@ width = 1228;
 unicode = 00DF;
 },
 {
+color = 8;
 glyphname = t;
-lastChange = "2014-01-31 03:54:38 -0700";
+lastChange = "2014-11-23 07:05:07 -0700";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 0;
+nodes = (
+"944 728 LINE SMOOTH",
+"989 728 OFFCURVE",
+"1007 746 OFFCURVE",
+"1007 796 CURVE SMOOTH",
+"1007 846 OFFCURVE",
+"989 864 OFFCURVE",
+"944 864 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = UUID0;
 name = Regular;
 paths = (
