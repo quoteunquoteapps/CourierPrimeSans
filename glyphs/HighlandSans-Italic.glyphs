@@ -16452,7 +16452,7 @@ unicode = 0165;
 {
 color = 6;
 glyphname = tcedilla;
-lastChange = "2014-11-22 23:17:28 -0700";
+lastChange = "2014-11-23 02:25:07 -0700";
 layers = (
 {
 background = {
@@ -16474,7 +16474,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, 41, 0}";
+transform = "{1, 0, 0, 1, 51, 0}";
 }
 );
 layerId = UUID0;
@@ -16501,7 +16501,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, 50, 0}";
+transform = "{1, 0, 0, 1, 60, 0}";
 }
 );
 layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
@@ -16929,7 +16929,7 @@ unicode = 016B;
 {
 color = 3;
 glyphname = uogonek;
-lastChange = "2014-11-22 23:17:07 -0700";
+lastChange = "2014-11-23 02:24:11 -0700";
 layers = (
 {
 background = {
