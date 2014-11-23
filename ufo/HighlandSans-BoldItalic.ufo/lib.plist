@@ -9,7 +9,9 @@
 	</dict>
 		<key>UUID0</key>
 		<dict>
-	</dict>
+			<key>HV</key>
+			<integer>72</integer>
+		</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>0791FDB8-5A5D-41D7-9039-1C27D6F382A7</string>
@@ -401,6 +403,7 @@
 		<string>second</string>
 		<string>section</string>
 		<string>trademark</string>
+		<string>bar.double</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>

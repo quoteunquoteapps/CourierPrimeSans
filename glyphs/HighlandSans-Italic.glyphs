@@ -32411,6 +32411,44 @@ width = 1228;
 unicode = 2122;
 },
 {
+color = 11;
+export = 0;
+glyphname = bar.double;
+lastChange = "2014-11-23 15:02:55 -0700";
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -400, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
+name = "Bold Italic";
+width = 1228;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -400, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = UUID0;
+name = "Regular Italic";
+width = 1228;
+}
+);
+},
+{
 glyphname = acute;
 lastChange = "2014-05-18 14:45:59 -0700";
 layers = (
@@ -34202,6 +34240,7 @@ GSDimensionPlugin.Dimensions = {
 "0791FDB8-5A5D-41D7-9039-1C27D6F382A7" = {
 };
 UUID0 = {
+HV = 72;
 };
 };
 };
