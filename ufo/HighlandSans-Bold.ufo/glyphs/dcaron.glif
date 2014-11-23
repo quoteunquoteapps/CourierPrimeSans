@@ -48,6 +48,6 @@
       <point x="395" y="714"/>
       <point x="493" y="714" type="curve" smooth="yes"/>
     </contour>
-    <component base="quoteright" xOffset="700" yOffset="311" xScale="0.83" yScale="0.83"/>
+    <component base="caron.alt" xOffset="813"/>
   </outline>
 </glyph>
