@@ -21,7 +21,7 @@ name = openTypeOS2VendorID;
 value = QUQA;
 }
 );
-date = "2015-01-02 01:56:15 +0000";
+date = "2015-01-04 05:04:55 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Sans";
@@ -34079,5 +34079,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 4;
+versionMinor = 5;
 }
