@@ -149,7 +149,6 @@
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>a</string>
-		<string>a.alt</string>
 		<string>aacute</string>
 		<string>abreve</string>
 		<string>acircumflex</string>
@@ -157,7 +156,6 @@
 		<string>agrave</string>
 		<string>amacron</string>
 		<string>aogonek</string>
-		<string>aogonek.alt</string>
 		<string>aring</string>
 		<string>atilde</string>
 		<string>ae</string>
@@ -169,7 +167,6 @@
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
 		<string>d</string>
-		<string>d.alt</string>
 		<string>eth</string>
 		<string>dcaron</string>
 		<string>dcroat</string>

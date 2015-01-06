@@ -258,8 +258,6 @@
 	<string>Z_dotaccent.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
-	<key>a.alt</key>
-	<string>a.alt.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
 	<key>abreve</key>
@@ -282,8 +280,6 @@
 	<string>ampersand.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
-	<key>aogonek.alt</key>
-	<string>aogonek.alt.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
 	<key>aring</key>
@@ -368,8 +364,6 @@
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
-	<key>d.alt</key>
-	<string>d.alt.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
