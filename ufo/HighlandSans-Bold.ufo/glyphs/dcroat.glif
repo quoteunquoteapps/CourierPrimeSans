@@ -22,11 +22,11 @@
       <point x="693" y="-22"/>
       <point x="820" y="63"/>
       <point x="868" y="197" type="curve"/>
-      <point x="831" y="259" type="line"/>
-      <point x="831" y="63" type="line" smooth="yes"/>
-      <point x="831" y="18"/>
-      <point x="849" y="0"/>
-      <point x="894" y="0" type="curve" smooth="yes"/>
+      <point x="821" y="259" type="line"/>
+      <point x="821" y="63" type="line" smooth="yes"/>
+      <point x="821" y="18"/>
+      <point x="839" y="0"/>
+      <point x="884" y="0" type="curve" smooth="yes"/>
       <point x="978" y="0" type="line" smooth="yes"/>
       <point x="1023" y="0"/>
       <point x="1041" y="18"/>
