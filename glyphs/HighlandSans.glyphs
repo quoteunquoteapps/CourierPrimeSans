@@ -21866,7 +21866,7 @@ unicode = 003A;
 },
 {
 glyphname = comma;
-lastChange = "2014-01-30 14:54:26 +0000";
+lastChange = "2015-01-08 05:56:58 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -21875,21 +21875,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"752 231 LINE SMOOTH",
-"770 266 OFFCURVE",
-"757 294 OFFCURVE",
-"724 294 CURVE SMOOTH",
 "530 294 LINE SMOOTH",
 "502 294 OFFCURVE",
 "484 280 OFFCURVE",
 "478 254 CURVE SMOOTH",
 "374 -228 LINE SMOOTH",
 "365 -270 OFFCURVE",
-"398 -294 OFFCURVE",
-"434 -294 CURVE SMOOTH",
-"460 -294 OFFCURVE",
-"486 -281 OFFCURVE",
-"500 -253 CURVE SMOOTH"
+"388 -294 OFFCURVE",
+"444 -294 CURVE SMOOTH",
+"490 -294 OFFCURVE",
+"519 -281 OFFCURVE",
+"530 -253 CURVE SMOOTH",
+"722 231 LINE SMOOTH",
+"736 266 OFFCURVE",
+"727 294 OFFCURVE",
+"694 294 CURVE SMOOTH"
 );
 }
 );
@@ -21902,10 +21902,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"777 291 LINE SMOOTH",
-"793 327 OFFCURVE",
-"782 354 OFFCURVE",
-"749 354 CURVE SMOOTH",
 "506 354 LINE SMOOTH",
 "478 354 OFFCURVE",
 "459 340 OFFCURVE",
@@ -21916,7 +21912,11 @@ nodes = (
 "434 -294 CURVE SMOOTH",
 "490 -294 OFFCURVE",
 "526 -279 OFFCURVE",
-"540 -246 CURVE SMOOTH"
+"540 -246 CURVE SMOOTH",
+"777 291 LINE SMOOTH",
+"793 327 OFFCURVE",
+"782 354 OFFCURVE",
+"749 354 CURVE SMOOTH"
 );
 }
 );
@@ -25517,7 +25517,7 @@ unicode = 201D;
 {
 color = 3;
 glyphname = quoteleft;
-lastChange = "2014-05-18 17:10:11 +0000";
+lastChange = "2015-01-09 06:18:52 +0000";
 layers = (
 {
 background = {
@@ -25544,57 +25544,25 @@ nodes = (
 }
 );
 };
-layerId = UUID0;
-name = Regular;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"690 1307 OFFCURVE",
-"664 1292 OFFCURVE",
-"650 1264 CURVE SMOOTH",
-"430 815 LINE SMOOTH",
-"413 780 OFFCURVE",
-"425 752 OFFCURVE",
-"458 752 CURVE SMOOTH",
-"633 752 LINE SMOOTH",
-"661 752 OFFCURVE",
-"679 766 OFFCURVE",
-"685 792 CURVE SMOOTH",
-"786 1238 LINE SMOOTH",
-"796 1280 OFFCURVE",
-"769 1307 OFFCURVE",
-"724 1307 CURVE SMOOTH"
-);
+name = quoteright;
+transform = "{-1, 0, -0, -1, 1225, 2021}";
 }
 );
+layerId = UUID0;
+name = Regular;
 width = 1228;
 },
 {
-layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
-name = Bold;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"653 1307 OFFCURVE",
-"615 1289 OFFCURVE",
-"593 1239 CURVE SMOOTH",
-"386 772 LINE SMOOTH",
-"370 736 OFFCURVE",
-"381 709 OFFCURVE",
-"414 709 CURVE SMOOTH",
-"657 709 LINE SMOOTH",
-"685 709 OFFCURVE",
-"704 723 OFFCURVE",
-"709 749 CURVE SMOOTH",
-"799 1221 LINE SMOOTH",
-"811 1283 OFFCURVE",
-"785 1307 OFFCURVE",
-"719 1307 CURVE SMOOTH"
-);
+name = quoteright;
+transform = "{-1, 0, -0, -1, 1213, 1978}";
 }
 );
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
 width = 1228;
 }
 );
@@ -25688,60 +25656,28 @@ unicode = 2019;
 },
 {
 glyphname = quotesinglbase;
-lastChange = "2014-05-17 03:22:21 +0000";
+lastChange = "2015-01-09 06:19:45 +0000";
 layers = (
 {
-layerId = UUID0;
-name = Regular;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"592 294 LINE SMOOTH",
-"564 294 OFFCURVE",
-"546 280 OFFCURVE",
-"540 254 CURVE SMOOTH",
-"439 -192 LINE SMOOTH",
-"429 -234 OFFCURVE",
-"456 -261 OFFCURVE",
-"501 -261 CURVE SMOOTH",
-"535 -261 OFFCURVE",
-"561 -246 OFFCURVE",
-"575 -218 CURVE SMOOTH",
-"795 231 LINE SMOOTH",
-"812 266 OFFCURVE",
-"800 294 OFFCURVE",
-"767 294 CURVE SMOOTH"
-);
+name = quoteright;
+transform = "{1, 0, 0, 1, 0, -975}";
 }
 );
+layerId = UUID0;
+name = Regular;
 width = 1228;
 },
 {
-layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
-name = Bold;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"556 304 LINE SMOOTH",
-"528 304 OFFCURVE",
-"509 290 OFFCURVE",
-"504 264 CURVE SMOOTH",
-"414 -208 LINE SMOOTH",
-"402 -270 OFFCURVE",
-"428 -294 OFFCURVE",
-"494 -294 CURVE SMOOTH",
-"560 -294 OFFCURVE",
-"598 -276 OFFCURVE",
-"620 -226 CURVE SMOOTH",
-"827 241 LINE SMOOTH",
-"843 277 OFFCURVE",
-"832 304 OFFCURVE",
-"799 304 CURVE SMOOTH"
-);
+name = quoteright;
+transform = "{1, 0, 0, 1, 0, -965}";
 }
 );
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
 width = 1228;
 }
 );
@@ -34405,6 +34341,7 @@ unicode = 0326;
 keepAlternatesTogether = 1;
 instances = (
 {
+active = 0;
 name = Light;
 weightClass = Light;
 },
@@ -34413,6 +34350,7 @@ interpolationWeight = 150;
 name = Regular;
 },
 {
+active = 0;
 interpolationWeight = 200;
 name = Medium;
 weightClass = Medium;

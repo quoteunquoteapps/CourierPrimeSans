@@ -34993,6 +34993,7 @@ unicode = 0326;
 keepAlternatesTogether = 1;
 instances = (
 {
+active = 0;
 name = Light;
 weightClass = Light;
 },
@@ -35001,6 +35002,7 @@ interpolationWeight = 150;
 name = Regular;
 },
 {
+active = 0;
 interpolationWeight = 200;
 name = Medium;
 weightClass = Medium;
