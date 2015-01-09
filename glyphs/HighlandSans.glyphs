@@ -11820,6 +11820,42 @@ width = 1228;
 unicode = 00EF;
 },
 {
+glyphname = idotaccent;
+lastChange = "2015-01-08 05:25:16 +0000";
+layers = (
+{
+components = (
+{
+name = dotlessi;
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, 4, 0}";
+}
+);
+layerId = UUID0;
+name = Regular;
+width = 1228;
+},
+{
+components = (
+{
+name = dotlessi;
+transform = "{1, 0, 0, 1, 0, 0}";
+},
+{
+name = dotaccent;
+transform = "{1, 0, 0, 1, 14, 0}";
+}
+);
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 1228;
+}
+);
+},
+{
 glyphname = igrave;
 lastChange = "2014-01-30 14:54:26 +0000";
 layers = (
