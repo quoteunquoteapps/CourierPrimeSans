@@ -24768,6 +24768,23 @@ width = 1228;
 unicode = 2011;
 },
 {
+glyphname = softhyphen;
+lastChange = "2015-01-08 14:29:03 +0000";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 0;
+},
+{
+layerId = "222D0B97-E2BD-4249-A584-FAB7D66A0D71";
+name = Bold;
+width = 0;
+}
+);
+unicode = 00AD;
+},
+{
 color = 8;
 glyphname = guillemetleft;
 lastChange = "2014-11-23 14:16:57 +0000";
