@@ -266,8 +266,6 @@
 	<string>acircumflex.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
-	<key>acute.alt</key>
-	<string>acute.alt.glif</string>
 	<key>acute.case</key>
 	<string>acute.case.glif</string>
 	<key>adieresis</key>
@@ -480,8 +478,6 @@
 	<string>germandbls.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
-	<key>grave.alt</key>
-	<string>grave.alt.glif</string>
 	<key>grave.case</key>
 	<string>grave.case.glif</string>
 	<key>greater</key>
