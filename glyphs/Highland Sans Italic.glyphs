@@ -34999,7 +34999,9 @@ weightClass = Light;
 },
 {
 interpolationWeight = 150;
-name = Regular;
+isItalic = 1;
+linkStyle = Regular;
+name = Italic;
 },
 {
 active = 0;
@@ -35010,7 +35012,9 @@ weightClass = Medium;
 {
 interpolationWeight = 250;
 isBold = 1;
-name = Bold;
+isItalic = 1;
+linkStyle = Regular;
+name = "Bold Italic";
 weightClass = Bold;
 }
 );
