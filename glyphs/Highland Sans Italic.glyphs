@@ -25779,6 +25779,23 @@ width = 1228;
 unicode = 2011;
 },
 {
+glyphname = softhyphen;
+lastChange = "2015-01-10 08:14:15 +0000";
+layers = (
+{
+layerId = UUID0;
+name = "Regular Italic";
+width = 0;
+},
+{
+layerId = "0791FDB8-5A5D-41D7-9039-1C27D6F382A7";
+name = "Bold Italic";
+width = 0;
+}
+);
+unicode = 00AD;
+},
+{
 glyphname = guillemetleft;
 lastChange = "2014-11-23 15:04:54 +0000";
 layers = (
