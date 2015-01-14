@@ -6,7 +6,9 @@
 	<dict>
 		<key>0791FDB8-5A5D-41D7-9039-1C27D6F382A7</key>
 		<dict>
-	</dict>
+			<key>HV</key>
+			<integer>72</integer>
+		</dict>
 		<key>UUID0</key>
 		<dict>
 			<key>HV</key>

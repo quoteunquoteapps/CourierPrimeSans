@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-01-12 17:22:12 +0000";
+date = "2015-01-14 04:21:37 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Sans";
@@ -13694,11 +13694,10 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2014-02-03 05:45:49 +0000";
+lastChange = "2015-01-14 04:38:04 +0000";
 layers = (
 {
-layerId = UUID0;
-name = Regular;
+background = {
 paths = (
 {
 closed = 1;
@@ -13731,6 +13730,45 @@ nodes = (
 "278 462 CURVE SMOOTH",
 "278 659 OFFCURVE",
 "412 798 OFFCURVE",
+"614 798 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = UUID0;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"338 946 OFFCURVE",
+"134 744 OFFCURVE",
+"134 462 CURVE SMOOTH",
+"134 180 OFFCURVE",
+"338 -22 OFFCURVE",
+"614 -22 CURVE SMOOTH",
+"890 -22 OFFCURVE",
+"1094 180 OFFCURVE",
+"1094 462 CURVE SMOOTH",
+"1094 744 OFFCURVE",
+"890 946 OFFCURVE",
+"614 946 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"810 798 OFFCURVE",
+"940 659 OFFCURVE",
+"940 462 CURVE SMOOTH",
+"940 265 OFFCURVE",
+"810 126 OFFCURVE",
+"614 126 CURVE SMOOTH",
+"418 126 OFFCURVE",
+"288 265 OFFCURVE",
+"288 462 CURVE SMOOTH",
+"288 659 OFFCURVE",
+"418 798 OFFCURVE",
 "614 798 CURVE SMOOTH"
 );
 }
@@ -34477,5 +34515,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 12;
+versionMinor = 13;
 }
