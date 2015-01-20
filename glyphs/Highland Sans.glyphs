@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-01-14 04:21:37 +0000";
+date = "2015-01-20 00:15:07 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Sans";
@@ -25662,7 +25662,7 @@ unicode = 2018;
 },
 {
 glyphname = quoteright;
-lastChange = "2015-01-15 05:21:56 +0000";
+lastChange = "2015-01-19 04:06:43 +0000";
 layers = (
 {
 background = {
@@ -27718,7 +27718,7 @@ unicode = 007E;
 },
 {
 glyphname = divide;
-lastChange = "2015-01-15 21:18:32 +0000";
+lastChange = "2015-01-19 06:31:04 +0000";
 layers = (
 {
 background = {
@@ -28731,7 +28731,7 @@ unicode = 00AC;
 },
 {
 glyphname = minus;
-lastChange = "2015-01-15 21:18:32 +0000";
+lastChange = "2015-01-20 00:10:05 +0000";
 layers = (
 {
 components = (
@@ -30252,32 +30252,9 @@ unicode = 25CA;
 },
 {
 glyphname = bar;
-lastChange = "2015-01-15 21:18:32 +0000";
+lastChange = "2015-01-19 06:29:06 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"539 -350 LINE SMOOTH",
-"539 -396 OFFCURVE",
-"558 -415 OFFCURVE",
-"614 -415 CURVE SMOOTH",
-"670 -415 OFFCURVE",
-"689 -396 OFFCURVE",
-"689 -350 CURVE SMOOTH",
-"689 1269 LINE SMOOTH",
-"689 1315 OFFCURVE",
-"670 1334 OFFCURVE",
-"614 1334 CURVE SMOOTH",
-"558 1334 OFFCURVE",
-"539 1315 OFFCURVE",
-"539 1269 CURVE SMOOTH"
-);
-}
-);
-};
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -30334,51 +30311,9 @@ unicode = 007C;
 },
 {
 glyphname = brokenbar;
-lastChange = "2015-01-15 21:18:32 +0000";
+lastChange = "2015-01-19 06:28:52 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"539 -350 LINE SMOOTH",
-"539 -396 OFFCURVE",
-"558 -415 OFFCURVE",
-"614 -415 CURVE SMOOTH",
-"670 -415 OFFCURVE",
-"689 -396 OFFCURVE",
-"689 -350 CURVE SMOOTH",
-"689 269 LINE SMOOTH",
-"689 315 OFFCURVE",
-"670 334 OFFCURVE",
-"614 334 CURVE SMOOTH",
-"558 334 OFFCURVE",
-"539 315 OFFCURVE",
-"539 269 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"539 650 LINE SMOOTH",
-"539 604 OFFCURVE",
-"558 585 OFFCURVE",
-"614 585 CURVE SMOOTH",
-"670 585 OFFCURVE",
-"689 604 OFFCURVE",
-"689 650 CURVE SMOOTH",
-"689 1269 LINE SMOOTH",
-"689 1315 OFFCURVE",
-"670 1334 OFFCURVE",
-"614 1334 CURVE SMOOTH",
-"558 1334 OFFCURVE",
-"539 1315 OFFCURVE",
-"539 1269 CURVE SMOOTH"
-);
-}
-);
-};
 layerId = UUID0;
 name = Regular;
 paths = (
@@ -34048,5 +33983,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 13;
+versionMinor = 14;
 }

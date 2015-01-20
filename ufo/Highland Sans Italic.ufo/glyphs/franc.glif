@@ -33,13 +33,13 @@
       <point x="24" y="250"/>
       <point x="38" y="230"/>
       <point x="83" y="230" type="curve" smooth="yes"/>
-      <point x="695" y="230" type="line" smooth="yes"/>
-      <point x="740" y="230"/>
-      <point x="762" y="250"/>
-      <point x="771" y="302" type="curve" smooth="yes"/>
-      <point x="780" y="354"/>
-      <point x="766" y="374"/>
-      <point x="721" y="374" type="curve" smooth="yes"/>
+      <point x="655" y="230" type="line" smooth="yes"/>
+      <point x="700" y="230"/>
+      <point x="722" y="250"/>
+      <point x="731" y="302" type="curve" smooth="yes"/>
+      <point x="740" y="354"/>
+      <point x="726" y="374"/>
+      <point x="681" y="374" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="403" y="704" type="line"/>
