@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-01-20 00:15:07 +0000";
+date = "2015-01-20 06:30:27 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Highland Sans";
@@ -33983,5 +33983,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 14;
+versionMinor = 15;
 }
