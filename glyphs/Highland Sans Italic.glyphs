@@ -79,6 +79,16 @@ alignmentZones = (
 );
 ascender = 1421;
 capHeight = 1187;
+customParameters = (
+{
+name = underlinePosition;
+value = "-250";
+},
+{
+name = underlineThickness;
+value = 130;
+}
+);
 descender = "-643";
 guideLines = (
 {
@@ -103,6 +113,16 @@ alignmentZones = (
 );
 ascender = 1421;
 capHeight = 1187;
+customParameters = (
+{
+name = underlinePosition;
+value = "-220";
+},
+{
+name = underlineThickness;
+value = 180;
+}
+);
 descender = "-643";
 guideLines = (
 {
