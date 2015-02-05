@@ -3,6 +3,6 @@
   <advance width="1228"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="-50"/>
+    <component base="dotaccent" xOffset="-77"/>
   </outline>
 </glyph>
