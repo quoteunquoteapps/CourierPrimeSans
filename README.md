@@ -1,8 +1,8 @@
-# Highland Sans
+# Courier Prime Sans
 
-Highland Sans is the sans serif version of [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime). It was designed by Alan Dague-Greene for John August and released with [Highland](http://quoteunquoteapps.com/highland/) by Quote-Unquote Apps.
+Courier Prime Sans is the sans serif version of [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime). It was designed by Alan Dague-Greene for John August and released as 'Highland Sans' with [Highland](http://quoteunquoteapps.com/highland/) by Quote-Unquote Apps.
 
 ## Related repositories
 
 - [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime)
-- [Highland Code](https://github.com/quoteunquoteapps/HighlandCode)
+- [Courier Prime Source](https://github.com/quoteunquoteapps/Courier-Prime-Source)
