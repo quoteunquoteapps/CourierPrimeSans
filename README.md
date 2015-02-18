@@ -5,4 +5,4 @@ Courier Prime Sans is the sans serif version of [Courier Prime](https://github.c
 ## Related repositories
 
 - [Courier Prime](https://github.com/quoteunquoteapps/CourierPrime)
-- [Courier Prime Source](https://github.com/quoteunquoteapps/Courier-Prime-Source)
+- [Courier Prime Source](https://github.com/quoteunquoteapps/CourierPrimeSource)
