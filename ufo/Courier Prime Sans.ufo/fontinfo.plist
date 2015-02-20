@@ -11,11 +11,11 @@
 	<key>descender</key>
 	<integer>-643</integer>
 	<key>familyName</key>
-	<string>Highland Sans</string>
+	<string>Courier Prime Sans</string>
 	<key>isFixedPitch</key>
 	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2015/02/05 08:23:07</string>
+	<string>2015/02/20 11:18:20</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alan Dague-Greene</string>
 	<key>openTypeNameDesignerURL</key>
@@ -23,7 +23,7 @@
 	<key>openTypeNameLicense</key>
 	<string>Copyright (c) 2015
 Quote-Unquote Apps (http://quoteunquoteapps.com)
-with Reserved Font Name Highland Sans.
+with Reserved Font Name Courier Prime Sans.
 
 This Font Software is licensed under the SIL Open Font License
 Version 1.1. This license is copied below
@@ -131,7 +131,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://quoteunquoteapps.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Highland Sans</string>
+	<string>Courier Prime Sans</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Light</string>
 	<key>openTypeOS2VendorID</key>
@@ -158,14 +158,13 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>235</integer>
-		<integer>237</integer>
-		<integer>225</integer>
+		<integer>144</integer>
+		<integer>148</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>250</integer>
-		<integer>262</integer>
+		<integer>150</integer>
+		<integer>154</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
@@ -176,7 +175,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>18</integer>
+	<integer>19</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>
