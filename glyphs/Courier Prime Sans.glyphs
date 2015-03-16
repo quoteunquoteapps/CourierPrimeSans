@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-03-02 02:38:46 +0000";
+date = "2015-03-16 16:00:36 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime Sans";
@@ -17549,7 +17549,7 @@ unicode = FB02;
 },
 {
 glyphname = ordfeminine;
-lastChange = "2015-01-07 12:35:33 +0000";
+lastChange = "2015-03-16 15:21:48 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -17558,19 +17558,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"540 1209 OFFCURVE",
-"427 1180 OFFCURVE",
-"345 1128 CURVE SMOOTH",
-"320 1112 OFFCURVE",
-"313 1085 OFFCURVE",
-"338 1042 CURVE SMOOTH",
-"359 1005 OFFCURVE",
-"387 1000 OFFCURVE",
-"412 1015 CURVE SMOOTH",
-"486 1058 OFFCURVE",
-"563 1080 OFFCURVE",
-"644 1080 CURVE SMOOTH",
-"750 1080 OFFCURVE",
+"531 1209 OFFCURVE",
+"422 1186 OFFCURVE",
+"334 1148 CURVE SMOOTH",
+"306 1136 OFFCURVE",
+"294 1112 OFFCURVE",
+"310 1065 CURVE SMOOTH",
+"324 1025 OFFCURVE",
+"350 1012 OFFCURVE",
+"378 1024 CURVE SMOOTH",
+"460 1059 OFFCURVE",
+"554 1080 OFFCURVE",
+"632 1080 CURVE SMOOTH",
+"745 1080 OFFCURVE",
 "792 1029 OFFCURVE",
 "792 950 CURVE SMOOTH",
 "792 899 LINE",
@@ -17596,8 +17596,8 @@ nodes = (
 "927 524 CURVE SMOOTH",
 "927 954 LINE SMOOTH",
 "927 1115 OFFCURVE",
-"831 1209 OFFCURVE",
-"644 1209 CURVE SMOOTH"
+"826 1209 OFFCURVE",
+"632 1209 CURVE SMOOTH"
 );
 },
 {
@@ -33987,5 +33987,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 20;
+versionMinor = 21;
 }
